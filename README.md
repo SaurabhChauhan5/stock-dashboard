@@ -29,8 +29,7 @@ Explore the application here: [https://stock-dashboard-beta.vercel.app](https://
   - JavaScript (ES6+)
   - HTML5 & CSS3
   - Charting Library (e.g., Chart.js or D3.js)
-- **APIs:**
-  - [Alpha Vantage](https://www.alphavantage.co/)
+- **API:**
   - [Yahoo Finance](https://www.yahoofinance.com/)
 
 ---
