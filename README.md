@@ -15,11 +15,13 @@ Explore the application here: [https://stock-dashboard-beta.vercel.app](https://
 
 ## 🛠️ Features
 
-- **Interactive Charts:** Visualize stock price movements and volume over time.
-- **Real-Time Data:** Fetches up-to-date stock information using external APIs.
-- **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
-- **User-Friendly Interface:** Clean layout with intuitive navigation.
-
+- **Dual theme support** (Zerodha and Motilal Oswal)
+- **Portfolio** overview with charts
+- **Responsive Design** Optimized for desktops, tablets, and mobile devices.
+- **Dark/Light mode** toggle
+- **User-Friendly Interface** Clean layout with intuitive navigation.
+- Real-time stock updates
+  
 ---
 
 ## 🧰 Tech Stack
